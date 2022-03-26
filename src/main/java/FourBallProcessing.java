@@ -7,7 +7,6 @@ public class FourBallProcessing extends PApplet {
     public static final int HEIGHT = 480;
     public static final int WIDTH = 640;
     public static final int Diameter = 10;
-    public static int position = 0;
     public static final int SPEED_1 = 1;
     public static final int SPEED_2 = 2;
     public static final int SPEED_3 = 3;
